@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data-Course-Project
 ## 3 Main functions 
 ### First function : Compile Dataset
-This function will compile the X dataset which contains all the measurements, Y dataset which contains all the activity and subject dataset which contains the subject based on its directory\
+This function will compile the X dataset which contains all the measurements, Y dataset which contains all the activity and subject dataset which contains the subject based on each file directory\
 Example usage of this function : 
 ```R
 X_test_directory <- "test/X_test.txt"
