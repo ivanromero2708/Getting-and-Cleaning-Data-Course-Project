@@ -1,5 +1,12 @@
 # Getting-and-Cleaning-Data-Course-Project
-## 3 Main functions 
+## How to execute the code 
+```R
+setwd("directory of the run_analysis.R")
+source("run_analysis.R")
+compileTidyDataset()
+```
+
+## run_analysis.R has 3 main functions
 ### First function : Compile Dataset
 This function will compile the X dataset which contains all the measurements, Y dataset which contains all the activity and subject dataset which contains the subject based on each file directory\
 Example usage of this function : 
