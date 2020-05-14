@@ -1,5 +1,6 @@
 # Getting-and-Cleaning-Data-Course-Project
 ## How to execute the code to obtain the final tidy dataset
+Clone this project directory and then run below command
 ```R
 setwd("directory of the run_analysis.R")
 source("run_analysis.R")
