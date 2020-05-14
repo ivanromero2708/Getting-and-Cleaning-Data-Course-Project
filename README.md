@@ -28,7 +28,7 @@ For this project purpose, the default value of each arguments are set in the fun
 full_dataset <- combineDatasets()
 ```
 ### Third function : Compile tidy dataset
-This function will compile the tidy dataset based on the full dataset compiled, it will group the data based on subject and activity and then summarise the data based on average value of each respective columns. Then it will write the dataset into a txt file.\
+This function will compile the tidy dataset based on the full dataset compiled, it will group the data based on subject and activity. Then, it will summarise the data based on average value of each respective columns. Finally, it will write the dataset into a txt file.\
 Example usage of this function : 
 ```R
 X_test_directory <- "test/X_test.txt"
