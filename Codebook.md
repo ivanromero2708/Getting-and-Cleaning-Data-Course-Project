@@ -55,7 +55,7 @@ Codebook summary table
 <td style="text-align: left;">integer</td>
 <td style="text-align: right;">30</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">A group of 30 volunteers within an age bracket of 19-48 years old</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -63,7 +63,7 @@ Codebook summary table
 <td style="text-align: left;">factor</td>
 <td style="text-align: right;">6</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Activities wearing a smartphone (Samsung Galaxy S II) on the waist</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -71,7 +71,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration signal in terms of mean in X direction using accelerometer</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -79,7 +79,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration signal in terms of mean in Y direction using accelerometer</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -87,7 +87,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration signal in terms of mean in Z direction using accelerometer</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -95,7 +95,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration signal in terms of standard deviation in X direction using accelerometer</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -103,7 +103,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration signal in terms of standard deviation in Y direction using accelerometer</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -111,7 +111,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration signal in terms of standard deviation in Z direction using accelerometer</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -119,7 +119,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of gravity acceleration signal in terms of mean in X direction using accelerometer</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -127,7 +127,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of gravity acceleration signal in terms of mean in Y direction using accelerometer</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -135,7 +135,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of gravity acceleration signal in terms of mean in Z direction using accelerometer</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -143,7 +143,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of gravity acceleration signal in terms of standard deviation in X direction using accelerometer</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -151,7 +151,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of gravity acceleration signal in terms of standard deviation in Y direction using accelerometer</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -159,7 +159,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of gravity acceleration signal in terms of standard deviation in Z direction using accelerometer</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -167,7 +167,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk signals in term of mean in X direction using accelerometer</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -175,7 +175,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk signals in term of mean in Y direction using accelerometer</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -183,7 +183,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk signals in term of mean in Z direction using accelerometer</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -191,7 +191,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk signals in term of standard deviation in X direction using accelerometer</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -199,7 +199,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk signals in term of standard deviation in Y direction using accelerometer</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -207,7 +207,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk signals in term of standard deviation in Z direction using accelerometer</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -215,7 +215,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration signals in term of mean in X direction using gyroscope</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -223,7 +223,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration signals in term of mean in Y direction using gyroscope</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -231,7 +231,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration signals in term of mean in Z direction using gyroscope</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -239,7 +239,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration signals in term of standard deviation in X direction using gyroscope</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -247,7 +247,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration signals in term of standard deviation in Y direction using gyroscope</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -255,7 +255,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration signals in term of standard deviation in Z direction using gyroscope</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -263,7 +263,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk signals in term of mean in X direction using gyroscope</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -271,7 +271,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk signals in term of mean in Y direction using gyroscope</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -279,7 +279,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk signals in term of mean in Z direction using gyroscope</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -287,7 +287,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk signals in term of standard deviation in X direction using gyroscope</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -295,7 +295,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk signals in term of standard deviation in Y direction using gyroscope</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -303,7 +303,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk signals in term of standard deviation in Z direction using gyroscope</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -311,7 +311,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration magnitude signals in term of mean using accelerometer</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -319,7 +319,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration magnituede signals after in term of standard deviation using accelerometer</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -327,7 +327,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of gravity acceleration magnitude signals in term of mean using accelerometer</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -335,7 +335,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration magnitude signals in term of standard deviation using accelerometer</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -343,7 +343,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk magnitude signals in term of mean using accelerometer</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -351,7 +351,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk magnitude signals in term of standard deviation using accelerometer</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -359,7 +359,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration magnitude signals in term of mean using gyroscope</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -367,7 +367,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration magnitude signals in term of standard deviation using gyroscope</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -375,7 +375,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk magnitude signals in term of mean using gyroscope</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -383,7 +383,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk magnitude signals in term of standard deviation using gyroscope</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -391,7 +391,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration signal after Fast Fourier Transform in terms of mean in X direction using accelerometer</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -399,7 +399,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration signal after Fast Fourier Transform in terms of mean in Y direction using accelerometer</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -407,7 +407,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration signal after Fast Fourier Transform in terms of mean in Z direction using accelerometer</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -415,7 +415,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration signal after Fast Fourier Transform in terms of standard deviation in X direction using accelerometer</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -423,7 +423,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration signal after Fast Fourier Transform in terms of standard deviation in Y direction using accelerometer</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -431,7 +431,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration signal after Fast Fourier Transform in terms of standard deviation in Z direction using accelerometer</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -439,7 +439,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk signal after Fast Fourier Transform in terms of mean in X direction using accelerometer</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -447,7 +447,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk signal after Fast Fourier Transform in terms of mean in Y direction using accelerometer</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -455,7 +455,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk signal after Fast Fourier Transform in terms of mean in Z direction using accelerometer</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -463,7 +463,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk signal after Fast Fourier Transform in terms of standard deviation in X direction using accelerometer</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -471,7 +471,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk signal after Fast Fourier Transform in terms of standard deviation in Y direction using accelerometer</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -479,7 +479,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk signal after Fast Fourier Transform in terms of standard deviation in Z direction using accelerometer</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -487,7 +487,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk signal after Fast Fourier Transform in terms of standard deviation in X direction using accelerometer</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -495,7 +495,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration signal after Fast Fourier Transform in terms of mean in Y direction using accelerometer</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -503,7 +503,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration signal after Fast Fourier Transform in terms of mean in Z direction using accelerometer</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -511,7 +511,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration signal after Fast Fourier Transform in terms of standard deviation in X direction using accelerometer</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -519,7 +519,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration signal after Fast Fourier Transform in terms of standard deviation in Y direction using accelerometer</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -527,7 +527,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration signal after Fast Fourier Transform in terms of standard deviation in Z direction using accelerometer</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -535,7 +535,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration magnitutde signal after Fast Fourier Transform in terms of mean using accelerometer</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -543,7 +543,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration magnitutde signal after Fast Fourier Transform in terms of standard deviation using accelerometer</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -551,7 +551,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk magnitude signal after Fast Fourier Transform in terms of mean using accelerometer</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -559,7 +559,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk magnitude signal after Fast Fourier Transform in terms of standard deviation using accelerometer</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -567,7 +567,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk signal after Fast Fourier Transform in terms of mean in using gyroscope</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -575,7 +575,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk signal after Fast Fourier Transform in terms of standard deviation in using gyroscope</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -583,7 +583,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk magnitude signal after Fast Fourier Transform in terms of mean in using gyroscope</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
@@ -591,7 +591,7 @@ Codebook summary table
 <td style="text-align: left;">numeric</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: center;">0.00 %</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Average of body acceleration Jerk magnitude signal after Fast Fourier Transform in terms of standard deviation in using gyroscope</td>
 </tr>
 </tbody>
 </table>
